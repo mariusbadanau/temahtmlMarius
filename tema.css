@@ -1,0 +1,61 @@
+<style>
+/* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+    body{
+      margin: 10%;
+    }
+#myNavbar2 {
+      background-color: lightgrey;
+      color: white;
+      padding: 15px;
+      height: 50px;
+    }
+.carousel-caption{
+        background: white;
+        width:25%;
+          position: absolute;
+        padding: 8px;
+         margin:0;
+         color: black;
+        bottom: .5rem;  
+
+        
+}
+
+ .caption {
+    left: 50%;
+        width:30%;
+        bottom: .5rem;
+        position: absolute;
+        background: white;
+         padding: 2px;
+         margin:0;
+
+        
+        
+    }
+
+    .thumbnail {
+        border: 0 none;
+        box-shadow: none;
+        position: relative;
+         border-style: ridge;
+         border-top: 1px;
+         border-bottom: 1px;
+    }
+
+</style>
